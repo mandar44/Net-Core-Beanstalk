@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net-Core-Beanstalk", "Net-Core-Beanstalk\Net-Core-Beanstalk.csproj", "{13960883-31E3-4CF2-B455-665CD6731383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13960883-31E3-4CF2-B455-665CD6731383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13960883-31E3-4CF2-B455-665CD6731383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13960883-31E3-4CF2-B455-665CD6731383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13960883-31E3-4CF2-B455-665CD6731383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B33423-3803-4D94-A57C-AAE9EC4B36E0}
+	EndGlobalSection
+EndGlobal
